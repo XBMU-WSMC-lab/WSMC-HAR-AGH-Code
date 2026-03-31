@@ -50,7 +50,7 @@ RestNet_har_train.py: Residual Network implementation for HAR.
 3.Usage
 
 # 1. Clone the repository
-git clone https://github.com/your-username/XBMU-WSMC-lab.git
+git clone https://github.com/XBMU-WSMC-lab/WSMC-HAR-AGH-Code.git
 
 # 2. Visualise the data
 python "Data visualisation.py"
