@@ -1,0 +1,32 @@
+..\..\output\complexmathfunctions.o: C:/Users/fushuangfei/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/DSP/Source/ComplexMathFunctions/ComplexMathFunctions.c
+..\..\output\complexmathfunctions.o: C:/Users/fushuangfei/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/DSP/Source/ComplexMathFunctions/arm_cmplx_conj_f32.c
+..\..\output\complexmathfunctions.o: C:\Users\fushuangfei\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\DSP\Include\dsp/complex_math_functions.h
+..\..\output\complexmathfunctions.o: C:\Users\fushuangfei\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\DSP\Include\arm_math_types.h
+..\..\output\complexmathfunctions.o: C:\Users\fushuangfei\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h
+..\..\output\complexmathfunctions.o: C:\Developer Tools\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\complexmathfunctions.o: C:\Users\fushuangfei\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h
+..\..\output\complexmathfunctions.o: C:\Developer Tools\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\..\output\complexmathfunctions.o: C:\Developer Tools\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+..\..\output\complexmathfunctions.o: C:\Developer Tools\Keil_v5\ARM\ARMCC\Bin\..\include\float.h
+..\..\output\complexmathfunctions.o: C:\Developer Tools\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+..\..\output\complexmathfunctions.o: C:\Users\fushuangfei\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\DSP\Include\arm_math_memory.h
+..\..\output\complexmathfunctions.o: C:\Users\fushuangfei\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\DSP\Include\dsp/none.h
+..\..\output\complexmathfunctions.o: C:\Users\fushuangfei\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\DSP\Include\dsp/utils.h
+..\..\output\complexmathfunctions.o: C:\Users\fushuangfei\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\DSP\Include\dsp/fast_math_functions.h
+..\..\output\complexmathfunctions.o: C:/Users/fushuangfei/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/DSP/Source/ComplexMathFunctions/arm_cmplx_conj_q15.c
+..\..\output\complexmathfunctions.o: C:/Users/fushuangfei/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/DSP/Source/ComplexMathFunctions/arm_cmplx_conj_q31.c
+..\..\output\complexmathfunctions.o: C:/Users/fushuangfei/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/DSP/Source/ComplexMathFunctions/arm_cmplx_dot_prod_f32.c
+..\..\output\complexmathfunctions.o: C:/Users/fushuangfei/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/DSP/Source/ComplexMathFunctions/arm_cmplx_dot_prod_q15.c
+..\..\output\complexmathfunctions.o: C:/Users/fushuangfei/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/DSP/Source/ComplexMathFunctions/arm_cmplx_dot_prod_q31.c
+..\..\output\complexmathfunctions.o: C:/Users/fushuangfei/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/DSP/Source/ComplexMathFunctions/arm_cmplx_mag_f32.c
+..\..\output\complexmathfunctions.o: C:/Users/fushuangfei/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/DSP/Source/ComplexMathFunctions/arm_cmplx_mag_q15.c
+..\..\output\complexmathfunctions.o: C:/Users/fushuangfei/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/DSP/Source/ComplexMathFunctions/arm_cmplx_mag_q31.c
+..\..\output\complexmathfunctions.o: C:/Users/fushuangfei/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/DSP/Source/ComplexMathFunctions/arm_cmplx_mag_squared_f32.c
+..\..\output\complexmathfunctions.o: C:/Users/fushuangfei/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/DSP/Source/ComplexMathFunctions/arm_cmplx_mag_squared_q15.c
+..\..\output\complexmathfunctions.o: C:/Users/fushuangfei/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/DSP/Source/ComplexMathFunctions/arm_cmplx_mag_squared_q31.c
+..\..\output\complexmathfunctions.o: C:/Users/fushuangfei/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/DSP/Source/ComplexMathFunctions/arm_cmplx_mult_cmplx_f32.c
+..\..\output\complexmathfunctions.o: C:/Users/fushuangfei/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/DSP/Source/ComplexMathFunctions/arm_cmplx_mult_cmplx_q15.c
+..\..\output\complexmathfunctions.o: C:/Users/fushuangfei/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/DSP/Source/ComplexMathFunctions/arm_cmplx_mult_cmplx_q31.c
+..\..\output\complexmathfunctions.o: C:/Users/fushuangfei/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/DSP/Source/ComplexMathFunctions/arm_cmplx_mult_real_f32.c
+..\..\output\complexmathfunctions.o: C:/Users/fushuangfei/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/DSP/Source/ComplexMathFunctions/arm_cmplx_mult_real_q15.c
+..\..\output\complexmathfunctions.o: C:/Users/fushuangfei/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/DSP/Source/ComplexMathFunctions/arm_cmplx_mult_real_q31.c
