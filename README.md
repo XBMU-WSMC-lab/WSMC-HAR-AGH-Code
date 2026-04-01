@@ -1,6 +1,6 @@
-# The WSMC-HAR-AGH Dataset: Multimodal Wearable Sensor Data for Human Activity Recognition
+# The WSMC-HAR-AGH Dataset: Multimodal wearable sensor data for human activity recognition
 
-This repository contains the source code (Hardware Firmware & Software Implementation) for the paper: **"The WSMC-HAR-AGH Dataset: Multimodal Wearable Sensor Data for Human Activity Recognition"** submitted to *Scientific Data*.
+This repository contains the source code (Hardware Firmware & Software Implementation) for the paper: **"The WSMC-HAR-AGH Dataset: Multimodal wearable sensor data for human activity recognition"** submitted to *Scientific Data*.
 
 ## 📌 Project Overview
 The WSMC-HAR-AGH dataset is a comprehensive multimodal database for Human Activity Recognition (HAR), capturing synchronized inertial (accelerometer, gyroscope) and physiological (heart rate, SpO2) data. 
